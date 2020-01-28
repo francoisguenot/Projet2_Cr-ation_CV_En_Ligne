@@ -272,7 +272,7 @@ address p {
         margin-top: 0;
     }
     aside img {
-        display: none;
+        display: flex
     }
 }
 
@@ -303,8 +303,5 @@ address p {
     }
     address {
         flex-direction: column;
-    }
-    header img {
-        max-width: 150px;
     }
 }
