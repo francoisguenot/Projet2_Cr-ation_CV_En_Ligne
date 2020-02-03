@@ -148,7 +148,6 @@ aside {
     padding-top: 50px;
     color: #FFF;
     text-align: justify;
-    line-height: 25px;
     
 }
 
@@ -171,6 +170,7 @@ aside h3 {
 aside p,
 a {
     padding: 0 40px 0 40px;
+    line-height: 1.6;
 }
 
 aside .fas {
