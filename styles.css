@@ -222,9 +222,6 @@ address p {
     body {
         max-width: none;
     }
-    main {
-        display: flex;
-    }
     section {
         flex: 4;
     }
